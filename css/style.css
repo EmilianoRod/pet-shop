@@ -1,0 +1,53 @@
+.cajaNegra{
+    background-color: black;
+    color: white;
+}
+
+.cajaNaranja{
+    background-color: rgba(240, 168, 62, 1);
+}
+
+h1{
+    text-align: center;
+}
+
+.cajaPrincipal{
+    background-image: url('/img/imagenprincipal.png');
+    background-size: cover;
+    height: 409px;
+    text-align: center;
+}   
+
+.cajaPrincipal button{
+    background-color: rgba(240, 168, 62, 1);
+}
+/* 
+.box1{
+    background-size: cover;
+} */
+
+.cajaSecundaria{
+    background-color: rgba(216, 214, 215, 0.38);
+}
+
+.precios{
+font-family: Roboto;
+font-size: 15px;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+color:rgba(240, 168, 62, 1);
+}
+
+footer{
+    background-color: #3C2313;
+    height: 400px;
+    bottom: 17px;
+}
+
+.ultimo{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
